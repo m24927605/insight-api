@@ -33,7 +33,7 @@
     "bcoin": "bcoin-org/bcoin#886008a1822ce1da7fa8395ee7db4bcc1750a28a",
     "bitcore-lib": "git+https://github.com/m24927605/bitcore-lib.git",
     "bitcore-lib-cash": "0.15.1",
-    "bitcore-message": "^1.0.1",
+    "bitcore-message": "git+https://github.com/m24927605/bitcore-message.git",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
